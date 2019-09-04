@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Zeng LH
-@contact: 893843891@qq.com
+@author: Pakro
 @software: pycharm
 @file: aria2_update_trackers_best.py
 @time: 2019/9/4 0004 14:19
